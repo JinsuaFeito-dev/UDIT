@@ -1,3 +1,5 @@
 .venv/
 UDIT_test/
 *.pt
+*.pb
+*__pycache__

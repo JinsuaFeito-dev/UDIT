@@ -5,3 +5,4 @@ torch
 torchvision   
 torchaudio 
 ultralytics
+deep-sort-realtime
